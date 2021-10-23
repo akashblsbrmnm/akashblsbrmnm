@@ -1,6 +1,6 @@
 # Hello, I am Akash 👋
 
-![](https://raw.githubusercontent.com/dummycurd/dummycurd/main/Header.gif)
+![](https://raw.githubusercontent.com/dummycurd/dummycurd/main/HeaderNew.gif)
 
 - 👨‍💻 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Backend & APIs
