@@ -17,7 +17,7 @@
 
 ## My Resume 📄
 
-- [Resume](https://www.dropbox.com/s/v2kwt9v9bgaiiye/Akash_s_Resume_SERIF.pdf?dl=0)
+- [Resume](https://www.dropbox.com/s/v2kwt9v9be/Akash_s_Resume_SERIF.pdf?dl=0)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
