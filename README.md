@@ -18,8 +18,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -76,7 +74,3 @@
 </div>
 
 ###
-
-#### Languages I prefer:
-[![Shell](https://camo.githubusercontent.com/f37e201df37b11561498bbbdb605e1c80bf5c31a51a70b303da4b7911f5e24cc/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f676e75626173682f344541413235)](https://github.com/akashblsbrmnm?tab=repositories&q=&type=&language=python)
-
