@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👨‍🚀 About me</h3>
+<h3 align="left">About me</h3>
 
 ###
 <p align="left">I am a Software Developer with 2+ years of experience with a strong background in feature development and system optimization for RDK-B platforms. Proficient in C/C++, Linux Shell Scripting, CMake, AutoConf, Python and Java.<br><br>My expertise lies in feature development and integration into RDK-B, alongside regression testing and verification on CPE devices.</p>
@@ -11,7 +11,7 @@
 <p align="left">I'm also a Photographer 📸<br>On weekdays, you find me capturing bugs and memory leaks.<br>On weeeknds, I switch gears and captures life.<br><br>"My Code maybe low-level, but my photos are always high-level 😜"</p>
 
 ###
-<h4 align="left">👨🏽‍💻 Languages I Work With</h4>
+<h4 align="left">Languages I Work With</h4>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">🫂 My Old Buddies</h4>
+<h4 align="left">My Old Buddies</h4>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h4 align="left">🔍 You can find me on</h4>
+<h4 align="left">You can find me on</h4>
 
 ###
 
