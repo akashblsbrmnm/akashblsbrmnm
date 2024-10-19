@@ -5,9 +5,7 @@
 <h3 align="left">About me</h3>
 
 ###
-<p align="left">I am a Software Developer with 2+ years of experience with a strong background in feature development and system optimization for RDK-B platforms. I work with C/C++, Linux Shell Scripting, CMake, AutoConf etc.. I'm also familiar with development using Python and Java.<br><br>I'm also a Photographer 📸<br>On weekdays, you find me capturing bugs and memory leaks.<br>On weeeknds, I switch gears and captures life.<br></p>
-
-<h4 align="center"><i>"My Code maybe low-level, but my photos are always high-level 😜"</i></h4>
+<p align="left">Hi there! 👋 I'm a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.<br> I'm also passionate about photography, graphic design and modern arts. When I'm not coding, you'll find me tinkering with one of them.</p>p>
 
 ###
 <h4 align="left">Languages I Work With</h4>
