@@ -8,8 +8,8 @@
 <p align="left">Greetings! 👋 I'm a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.<br> I'm also passionate about photography, graphic design and modern arts. When I'm not coding, you'll find me tinkering with one of them.</p>
 
 <p align="center">
-  <a href="https://akashblsbrmnm.github.io" target="_blank">Visit my website 🚀</a><br>
-  ( Don't forget to Accept Cookies 🍪😜 )
+  <a href="https://akashblsbrmnm.github.io" target="_blank">Visit my website 🚀</a>
+  <br>( Don't forget to Accept Cookies 🍪😜 )
 </p>
 
 
