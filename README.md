@@ -5,11 +5,13 @@
 <h3 align="left">About me</h3>
 
 ###
-<p align="left">Hi there! 👋 I'm a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.<br> I'm also passionate about photography, graphic design and modern arts. When I'm not coding, you'll find me tinkering with one of them.</p>
+<p align="left">Greetings! 👋 I'm a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.<br> I'm also passionate about photography, graphic design and modern arts. When I'm not coding, you'll find me tinkering with one of them.</p>
 
 <p align="center">
-  <a href="https://akashblsbrmnm.github.io" target="_blank">Visit my website 🚀</a>
+  <a href="https://akashblsbrmnm.github.io" target="_blank">Visit my website 🚀</a><br>
+  ( Don't forget to Accept Cookies 🍪😜 )
 </p>
+
 
 ###
 <h4 align="left">Languages I Work With</h4>
@@ -26,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
 </div>
 
+<!-- 
 ###
 
 <h4 align="left">My Old Buddies</h4>
@@ -48,7 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
+### 
+-->
 
 <h4 align="left">You can find me on</h4>
 
