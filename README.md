@@ -9,7 +9,6 @@
 
 <p align="left">
   <a href="https://akashblsbrmnm.github.io" target="_blank" rel="noopener noreferrer">Visit my website 🚀</a>
-  <br>( Don't forget to Accept Cookies 🍪😜 )
 </p>
 
 ###
