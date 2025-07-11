@@ -1,6 +1,6 @@
-<h1 align="left">Hello there, I'm Akash 👋</h1>
+# Charan Ravi
 
-###
+**`A Tech enthusiast, technically.`**
 
 <h3 align="left">About me</h3>
 
