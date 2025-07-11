@@ -16,6 +16,7 @@ Hi there! I'm Akash, a C Developer from India with 2+ years of experience in fea
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,vim,vscode,git,github,cmake,jenkins,arduino,ubuntu,docker,html,css)](https://akashblsbrmnm.github.io/)
 
 ### You can find me on
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)]((https://www.linkedin.com/in/akash-balasubhramanyam/))
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](([https://www.linkedin.com/in/akash-balasubhramanyam/](https://x.com/akashblsbrmnm)))
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)]([https://skillicons.dev](https://instagram.com/akashblsbrmnm))
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akash-balasubhramanyam/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/akashblsbrmnm/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akashblsbrmnm/)
