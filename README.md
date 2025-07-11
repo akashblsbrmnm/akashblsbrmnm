@@ -14,7 +14,7 @@
 ---
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,linux,ubuntu,vim,vscode,git,github,jenkins,arduino,docker,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,linux,ubuntu,vim,vscode,git,github,jenkins,arduino,docker,html,css)](https://skillicons.dev)
 
 <!-- 
 ###
