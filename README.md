@@ -13,7 +13,21 @@ Hi there! I'm Akash, a C Developer from India with 2+ years of experience in fea
  - [PORTFOLIO]([https://charanravi-online.github.io](http://akashblsbrmnm.github.io/))
 ---
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,vim,vscode,git,github,cmake,jenkins,arduino,ubuntu,docker,html,css)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=vim)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=cmake)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=jenkins)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://akashblsbrmnm.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://akashblsbrmnm.github.io/)
 
 ### You can find me on
 
