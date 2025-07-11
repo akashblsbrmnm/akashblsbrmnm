@@ -1,6 +1,6 @@
 # Akash Balasubhramanyam
 
-**`A Tech enthusiast, technically.`**
+**`Technically, a Tech enthusiast.`**
 
 Hi there! I'm Akash, a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.
 
