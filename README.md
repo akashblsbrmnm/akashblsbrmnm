@@ -7,24 +7,14 @@
 ###
 <p align="left">Greetings! 👋 I'm a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.<br> I'm also passionate about photography, graphic design and modern arts. When I'm not coding, you'll find me tinkering with one of them.</p>
 
-<p align="left">
-  <a href="https://akashblsbrmnm.github.io" target="_blank" rel="noopener noreferrer">Visit my website 🚀</a>
-</p>
+---
+**Connect with me**
+ - **E-MAIL**: akashblsbrmnm@gmail.com.com
+ - [PORTFOLIO]([https://charanravi-online.github.io](http://akashblsbrmnm.github.io/))
+---
+### Languages and Tools
 
-###
-<h4 align="left">Languages I Work With</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,linux,ubuntu,vim,vscode,git,github,jenkins,arduino,docker,html,css,wasm)](https://skillicons.dev)
 
 <!-- 
 ###
