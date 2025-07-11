@@ -2,7 +2,7 @@
 
 **`A Tech enthusiast, technically.`**
 
-Hi there! I'm Akash, a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.<br> I'm also passionate about photography, graphic design and modern arts. When I'm not coding, you'll find me tinkering with one of them.
+Hi there! I'm Akash, a C Developer from India with 2+ years of experience in feature development and system enhancement for RDK-B platforms. I work with mainly C, C++, Linux Shell Scripting, CMake, AutoConf.
 
 - I am currently working as RDK-B Developer at Infosys India.
 - I am actively looking for Software Developer roles to broaden my knowledge.
