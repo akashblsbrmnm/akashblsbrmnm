@@ -13,7 +13,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,linux,ubuntu,vim,vscode,git,github,jenkins,arduino,docker,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,vim,vscode,git,github,cmake,jenkins,arduino,ubuntu,docker,html,css)](https://skillicons.dev)
 
 ### You can find me on
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)]([https://skillicons.dev](https://www.linkedin.com/in/akash-balasubhramanyam/))
