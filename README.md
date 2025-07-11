@@ -16,6 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,linux,ubuntu,vim,vscode,git,github,jenkins,arduino,docker,html,css)](https://skillicons.dev)
 
 ### You can find me on
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/akash-balasubhramanyam/))
-[![My Skills](https://skillicons.dev/icons?i=twitter)]([https://skillicons.dev]([https://www.linkedin.com/in/akash-balasubhramanyam/](https://x.com/akashblsbrmnm)))
-[![My Skills](https://skillicons.dev/icons?i=instagram)]([https://skillicons.dev](https://instagram.com/akashblsbrmnm))
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)]([https://skillicons.dev](https://www.linkedin.com/in/akash-balasubhramanyam/))
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)]([https://skillicons.dev]([https://www.linkedin.com/in/akash-balasubhramanyam/](https://x.com/akashblsbrmnm)))
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)]([https://skillicons.dev](https://instagram.com/akashblsbrmnm))
