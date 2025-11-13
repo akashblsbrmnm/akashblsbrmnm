@@ -1,5 +1,5 @@
 # Akash Balasubhramanyam
-## Embedded Systems Developer — C/C++, Linux
+## Systems Developer — C/C++, Linux
 <p align="center">
   <a href="[https://github.com/akashblsbrmnm/akashblsbrmnm/blob/main/AkashDB_Resume.pdf](https://drive.google.com/file/d/1yFu5XCQlTSkf1Uu2bmGaiBLVw5BqGqL3/view?usp=sharing)" target="_blank">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" />
