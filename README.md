@@ -1,16 +1,16 @@
 # Akash Balasubhramanyam
 ## Embedded Systems Developer — RDK-B, C/C++, Linux
 
-I build reliable embedded software for broadband gateways. My work centers on RDK-B middleware, IPC systems, multi-threaded architectures, and Yocto-based firmware builds. I enjoy working close to the metal, solving tricky integration issues, and improving system performance with clean, maintainable code.
+I build reliable embedded software for broadband gateways. My work centers on [RDK-B](https://rdkcentral.com/wp-content/uploads/2021/07/RDK-Broadband-brief-5.1.pdf) middleware, IPC systems, multi-threaded architectures, and Yocto-based firmware builds. I enjoy working close to the metal, solving tricky integration issues, and improving system performance with clean, maintainable code.
 
 ## About Me
 - Embedded Systems Engineer with 3+ years of experience.
-- Specializing in RDK-B middleware, Embedded C/C++, CCSP, RBUS/DBus IPC, and TR-181 data models.
+- Specializing in [RDK-B](https://rdkcentral.com/wp-content/uploads/2021/07/RDK-Broadband-brief-5.1.pdf) middleware, Embedded C/C++, CCSP, RBUS/DBus IPC, and [TR-181](https://device-data-model.broadband-forum.org/) data models.
 - Hands-on experience with Yocto, BitBake, Parodus/WebPA, pthreads, and network protocol handling.
 - Experienced in debugging, CI issue analysis, memory leak detection, and unit testing (GTest/CUnit/CMocka).
-- Actively exploring opportunities as a Software / Embedded Developer.
+- Actively exploring opportunities as a Software Engineer/Embedded Developer.
 
-## 🚀 Projects
+## Projects
 ### RBUS Method Invocation over WebPA
 Implemented cloud-triggered method-invoke workflows on RDK-B devices using RBUS, Parodus, and multithreaded request handling.
 
