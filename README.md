@@ -42,7 +42,7 @@ Implemented cloud-triggered method-invoke workflows on RDK-B devices using RBUS,
 ### WebPA Subscription over RBUS
 Designed an end-to-end event subscription flow using RBUS for TR-181 value change notifications, improving reliability over Xmidt Cloud.
 
-## ToolBox
+## Toolbox
 [![My Skills](https://skillicons.dev/icons?i=c)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://akashblsbrmnm.github.io/)
