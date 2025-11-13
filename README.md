@@ -1,6 +1,10 @@
 # Akash Balasubhramanyam
 ## Embedded Systems Developer — C/C++, Linux
 <p align="center">
+  <a href="[https://github.com/akashblsbrmnm/akashblsbrmnm/blob/main/AkashDB_Resume.pdf](https://drive.google.com/file/d/1yFu5XCQlTSkf1Uu2bmGaiBLVw5BqGqL3/view?usp=sharing)" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  
   <a href="https://akashblsbrmnm.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" />
   </a>
@@ -19,10 +23,6 @@
 
   <a href="https://www.instagram.com/akashblsbrmnm/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/akashblsbrmnm/akashblsbrmnm/blob/main/AkashDB_Resume.pdf" target="_blank">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
