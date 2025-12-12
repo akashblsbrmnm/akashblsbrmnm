@@ -35,12 +35,6 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 - Experienced in debugging, CI issue analysis, memory leak detection, and unit testing (GTest/CUnit/CMocka).
 - Actively exploring opportunities as a Software Engineer/Embedded Developer.
 
-## Projects
-### RBUS Method Invocation over WebPA
-Implemented cloud-triggered method-invoke workflows on RDK-B devices using RBUS, Parodus, and multithreaded request handling.
-
-### WebPA Subscription over RBUS
-Designed an end-to-end event subscription flow using RBUS for TR-181 value change notifications, improving reliability over Xmidt Cloud.
 
 ## Toolbox
 [![My Skills](https://skillicons.dev/icons?i=c)](https://akashblsbrmnm.github.io/)
