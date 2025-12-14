@@ -24,6 +24,16 @@
   <a href="https://www.instagram.com/akashblsbrmnm/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://leetcode.com/u/akashblsbrmnmX" target="_blank">
+    <img alt="LeetCode"
+       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/akashblsbrmnm" target="_blank">
+    <img alt="HackerRank"
+       src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
 </p>
 
 I build reliable embedded software for broadband gateways. My work centers on [RDK-B](https://rdkcentral.com/wp-content/uploads/2021/07/RDK-Broadband-brief-5.1.pdf) middleware, IPC systems, multi-threaded architectures, and Yocto-based firmware builds. I enjoy working close to the metal, solving tricky integration issues, and improving system performance with clean, maintainable code.
@@ -35,6 +45,7 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 - Experienced in debugging, CI issue analysis, memory leak detection, and unit testing (GTest/CUnit/CMocka).
 - Actively exploring opportunities as a Software Engineer/Embedded Developer.
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity)
 
 ## Toolbox
 [![My Skills](https://skillicons.dev/icons?i=c)](https://akashblsbrmnm.github.io/)
