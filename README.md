@@ -46,7 +46,7 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 - Actively exploring opportunities as a Software Engineer/Embedded Developer.
 
 <p align="center">
-  <img src="[https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark](https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity)" />
+  <img src="https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity" />
 </p>
 
 ## Toolbox
