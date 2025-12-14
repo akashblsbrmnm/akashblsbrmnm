@@ -62,13 +62,12 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 [![My Skills](https://skillicons.dev/icons?i=html)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://akashblsbrmnm.github.io/)
 
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity" />
-</p>
-
 ## Get in touch
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akash-balasubhramanyam/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/akashblsbrmnm/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akashblsbrmnm/)
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity" />
+</p>
