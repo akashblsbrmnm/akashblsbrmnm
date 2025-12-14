@@ -1,7 +1,7 @@
 # Akash Balasubhramanyam
 ## Systems Developer — C/C++, Linux
 <p align="center">
-  <a href="https://drive.google.com/file/d/1vrpjhZ1SqOpC-9l7nXMaJNRX5oTl28Vh/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1vu2KIXi6uLaMPXZSE171rIFYtzxngtfx/view?usp=sharing" target="_blank">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
   
