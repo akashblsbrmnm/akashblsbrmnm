@@ -45,7 +45,9 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 - Experienced in debugging, CI issue analysis, memory leak detection, and unit testing (GTest/CUnit/CMocka).
 - Actively exploring opportunities as a Software Engineer/Embedded Developer.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity)
+<p align="center">
+  <img src="[https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark](https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity)" />
+</p>
 
 ## Toolbox
 [![My Skills](https://skillicons.dev/icons?i=c)](https://akashblsbrmnm.github.io/)
