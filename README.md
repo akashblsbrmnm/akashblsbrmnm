@@ -9,7 +9,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" />
   </a>
 
-  <a href="https://www.linkedin.com/in/akash-balasubhramanyam/" target="_blank">
+  <a href="https://www.linkedin.com/in/akashblsbrmnm/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
