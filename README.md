@@ -68,6 +68,4 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/akashblsbrmnm/)
 
 ## 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter&ext=activity" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/akashblsbrmnmX?theme=light&font=Inter)
