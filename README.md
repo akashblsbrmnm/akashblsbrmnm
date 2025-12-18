@@ -46,6 +46,7 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 - Actively exploring opportunities as a Software Engineer/Embedded Developer.
 
 ## Toolbox
+<!--
 [![My Skills](https://skillicons.dev/icons?i=c)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://akashblsbrmnm.github.io/)
@@ -61,6 +62,28 @@ I build reliable embedded software for broadband gateways. My work centers on [R
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://akashblsbrmnm.github.io/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://akashblsbrmnm.github.io/)
+-->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCD116.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Bash Script](https://img.shields.io/badge/bash_script-6C4FC0.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=000000)
+![Visual Studio](https://img.shields.io/badge/visual_studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-FCD116.svg?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
 
 ## Get in touch
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akash-balasubhramanyam/)
